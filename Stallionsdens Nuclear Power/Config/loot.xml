@@ -1,0 +1,87 @@
+<Stallionsden>
+<append xpath="/lootcontainers/lootgroup[@name='workingStiffsBox']">	
+		<item name="nuclearGeneratorSchematic" count="1" prob="0.003" />
+		<item name="nuclearBatterySchematic" count="1" prob="0.003" />
+		<item name="nuclearSolarSchematic" count="1" prob="0.003" />
+</append>
+<append xpath="/lootcontainers/lootgroup[@name='forgeLoot']">	
+		<item name="nuclearGeneratorSchematic" count="1" prob="0.003" />
+		<item name="nuclearBatterySchematic" count="1" prob="0.003" />
+		<item name="nuclearSolarSchematic" count="1" prob="0.003" />
+</append>
+<append xpath="/lootcontainers/lootgroup[@name='cementMixerLoot']">	
+		<item name="nuclearGeneratorSchematic" count="1" prob="0.003" />
+		<item name="nuclearBatterySchematic" count="1" prob="0.003" />
+		<item name="nuclearSolarSchematic" count="1" prob="0.003" />
+</append>
+<append xpath="/lootcontainers/lootgroup[@name='workbenchLoot']">	
+		<item name="nuclearGeneratorSchematic" count="1" prob="0.003" />
+		<item name="nuclearBatterySchematic" count="1" prob="0.003" />
+		<item name="nuclearSolarSchematic" count="1" prob="0.003" />
+</append>
+<append xpath="/lootcontainers/lootgroup[@name='booksRareOnlyScaled']">	
+		<item name="nuclearGeneratorSchematic" count="1" prob="0.003" />
+		<item name="nuclearBatterySchematic" count="1" prob="0.003" />
+		<item name="nuclearSolarSchematic" count="1" prob="0.003" />
+</append>
+<append xpath="/lootcontainers/lootgroup[@name='workstations']">	
+		<item name="nuclearGeneratorSchematic" count="1" prob="0.003" />
+		<item name="nuclearBatterySchematic" count="1" prob="0.003" />
+		<item name="nuclearSolarSchematic" count="1" prob="0.003" />
+</append>
+<append xpath="/lootcontainers/lootgroup[@name='perkBooks']">	
+		<item name="nuclearGeneratorSchematic" count="1" prob="0.003" />
+		<item name="nuclearBatterySchematic" count="1" prob="0.003" />
+		<item name="nuclearSolarSchematic" count="1" prob="0.003" />
+		</append>
+<append xpath="/lootcontainers/lootgroup[@name='chemistryStationLoot']">	
+		<item name="nuclearGeneratorSchematic" count="1" prob="0.003" />
+		<item name="nuclearBatterySchematic" count="1" prob="0.003" />
+		<item name="nuclearSolarSchematic" count="1" prob="0.003" />
+		</append>
+<append xpath="/lootcontainers/lootgroup[@name='groupQuestSchematics']">	
+		<item name="nuclearGeneratorSchematic" count="1" prob="0.003" />
+		<item name="nuclearBatterySchematic" count="1" prob="0.003" />
+		<item name="nuclearSolarSchematic" count="1" prob="0.003" />
+</append>
+<append xpath="/lootcontainers/lootgroup[@name='labEquipment']">	
+		<item name="nuclearGeneratorSchematic" count="1" prob="0.003" />
+		<item name="nuclearBatterySchematic" count="1" prob="0.003" />
+		<item name="nuclearSolarSchematic" count="1" prob="0.003" />
+</append>
+<append xpath="/lootcontainers/lootcontainer[@id='49']">
+		<item name="nuclearGeneratorSchematic" count="1" prob="0.003" />
+		<item name="nuclearBatterySchematic" count="1" prob="0.003" />
+		<item name="nuclearSolarSchematic" count="1" prob="0.003" />
+	</append>
+<append xpath="/lootcontainers/lootcontainer[@id='60']">
+		<item name="nuclearGeneratorSchematic" count="1" prob="0.003" />
+		<item name="nuclearBatterySchematic" count="1" prob="0.003" />
+		<item name="nuclearSolarSchematic" count="1" prob="0.003" />
+	</append>
+<append xpath="/lootcontainers/lootcontainer[@id='73']">
+		<item name="nuclearGeneratorSchematic" count="1" prob="0.003" />
+		<item name="nuclearBatterySchematic" count="1" prob="0.003" />
+		<item name="nuclearSolarSchematic" count="1" prob="0.003" />
+	</append>
+<append xpath="/lootcontainers/lootcontainer[@id='83']">
+		<item name="nuclearGeneratorSchematic" count="1" prob="0.003" />
+		<item name="nuclearBatterySchematic" count="1" prob="0.003" />
+		<item name="nuclearSolarSchematic" count="1" prob="0.003" />
+	</append>
+ <append xpath="/lootcontainers/lootcontainer[@id='135']">
+		<item name="nuclearGeneratorSchematic" count="1" prob="0.003" />
+		<item name="nuclearBatterySchematic" count="1" prob="0.003" />
+		<item name="nuclearSolarSchematic" count="1" prob="0.003" />
+	</append>
+<append xpath="/lootcontainers/lootcontainer[@id='136']">
+		<item name="nuclearGeneratorSchematic" count="1" prob="0.003" />
+		<item name="nuclearBatterySchematic" count="1" prob="0.003" />
+		<item name="nuclearSolarSchematic" count="1" prob="0.003" />
+	</append>
+<append xpath="/lootcontainers/lootcontainer[@id='140']">
+		<item name="nuclearGeneratorSchematic" count="1" prob="0.003" />
+		<item name="nuclearBatterySchematic" count="1" prob="0.003" />
+		<item name="nuclearSolarSchematic" count="1" prob="0.003" />
+	</append>
+</Stallionsden>
